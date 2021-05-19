@@ -2,7 +2,7 @@
 
 
 [![Website](https://img.shields.io/website?label=socialid.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fsocialid.wordpress.com)](https://www.facebook.com/socialid)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/arjun.kr.21/)](https://www.instagram.com/socialid/)&nbsp;
+&nbsp;
 <a href="mailto:y3jamitbharti001@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
 
 
@@ -22,7 +22,7 @@
 ### Spotify Playing 🎧
 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31afwq4rva7wb7onafgvsgzfxwtu)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Amit fav Spotify Playing" width="350" />](https://open.spotify.com/user/	31afwq4rva7wb7onafgvsgzfxwtu)
 
 ### Connect with me:
 
