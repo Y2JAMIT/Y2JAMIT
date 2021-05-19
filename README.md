@@ -1,11 +1,15 @@
 ### Hi there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+
 [![Website](https://img.shields.io/website?label=socialid.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fsocialid.wordpress.com)](https://www.facebook.com/socialid)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/arjun.kr.21/)](https://www.instagram.com/socialid/)&nbsp;
 <a href="mailto:y3jamitbharti001@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
 
 
 ## I'm Amit Kumar Bharti !!
+
+<img src="hadder.gif" width="auto">
+
 
 - 🔭 I am currently pursuing B.Tech(Computer Science) and Engineering  !
 - 🌱 From Brainware University, Kolkata.
