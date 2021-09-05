@@ -86,7 +86,7 @@
 
 </details>
 
-[website]: https://socialid.wordpress.com
+[website]: https://amitkumarbharti.wordpress.com
 [facebook]: https://www.facebook.com/
 [youtube]: https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q
 [instagram]: https://www.instagram.com/
