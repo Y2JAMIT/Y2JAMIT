@@ -61,12 +61,15 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages](https://kant146.wordpress.com/2020/10/24/javascript/)
+- [Data Structures and Algorithms– first thing that comes to mind while preparing for coding interviews and tests. Is it that important?](https://amitkumarbharti.wordpress.com/2021/05/20/data-structures-and-algorithms/)
+
+
+- [To become a proficient programmer, it is important to have an understanding of data structures.](https://amitkumarbharti.wordpress.com/2021/05/20/data-structures-in-c-and-c/)
 - [Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming](https://kant146.wordpress.com/2020/10/24/python/)
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://kant146.wordpress.com)
+➡️ [more blog posts...](https://amitkumarbharti.wordpress.com)
 
 ---
 
